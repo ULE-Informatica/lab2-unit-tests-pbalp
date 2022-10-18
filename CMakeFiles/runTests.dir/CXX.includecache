@@ -15,6 +15,10 @@ stdio.h
 -
 stdint.h
 -
+stddef.h
+-
+inttypes.h
+-
 
 /home/alumno/lab2-unit-tests-pbalp/tests.cpp
 exampleFunction.cpp
